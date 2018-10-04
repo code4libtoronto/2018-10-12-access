@@ -46,6 +46,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
+<h2 id="register">Register</h2>
+<!-- Tito registration widget -->
+<tito-widget event="code4libtoronto/library-carpentry-at-access-2018"></tito-widget>
+
+
 <h2 id="general">General Information</h2>
 
 {% comment %}
